@@ -1,0 +1,43 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl MI_MimicLimbs
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd T_Mimic_Limbs_D.png
+map_d T_Mimic_Limbs_D.png
+
+newmtl MI_RFreddy_ENDO.001
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Endo.png
+
+newmtl M_MimicEye_NoScale
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+illum 2
+map_Kd T_Mimic_Head_D.png
+map_Ke T_Mimic_Eye_Emissive.png
+map_d T_Mimic_Head_D.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd rockstar freddy mimic damage exo.png
+map_Bump -bm 1.000000 Freddy_normal.png
